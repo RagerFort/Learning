@@ -22,7 +22,7 @@ A collection of frontend projects built as part of the [roadmap.sh](https://road
 Clone the repo and open any project's `index.html` directly in your browser — no build tools required.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/RagerFort/Learning.git
 ```
 
 ## Roadmap

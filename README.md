@@ -4,10 +4,11 @@ A collection of frontend projects built as part of the [roadmap.sh](https://road
 
 ## Projects
 
-- (https://roadmap.sh/projects/changelog-component)
-- (https://roadmap.sh/projects/basic-html-website)
-- (https://roadmap.sh/projects/single-page-cv)
-- (https://roadmap.sh/projects/portfolio-website)
+- [Changelog Component](https://roadmap.sh/projects/changelog-component)
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+- [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+- [Portfolio Website](https://roadmap.sh/projects/portfolio-website)
+- [Simple Tabs](https://roadmap.sh/projects/simple-tabs)
 
 ## Tech Stack
 

@@ -4,12 +4,10 @@ A collection of frontend projects built as part of the [roadmap.sh](https://road
 
 ## Projects
 
-| Project             | Description                                                 | Link                                                            |
-| ------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
-| Changelog Component | A structured changelog UI component built with HTML & CSS   | [View Project](https://roadmap.sh/projects/changelog-component) |
-| Basic HTML Website  | A multi-page website using semantic HTML fundamentals       | [View Project](https://roadmap.sh/projects/basic-html-website)  |
-| Single Page CV      | A clean, single-page resume/CV built in pure HTML           | [View Project](https://roadmap.sh/projects/single-page-cv)      |
-| Portfolio Website   | A personal portfolio website showcasing projects and skills | [View Project](https://roadmap.sh/projects/portfolio-website)   |
+- [Changelog Component](https://roadmap.sh/projects/changelog-component)
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+- [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+- [Portfolio Website](https://roadmap.sh/projects/portfolio-website)
 
 ## Tech Stack
 
@@ -22,7 +20,7 @@ A collection of frontend projects built as part of the [roadmap.sh](https://road
 Clone the repo and open any project's `index.html` directly in your browser — no build tools required.
 
 ```bash
-git clone https://github.com/RagerFort/Learning.git
+git clone https://github.com/Ragerfort/Learning.git
 ```
 
 ## Roadmap
